@@ -1,17 +1,3 @@
-<html lang="EN">
-    <head>
-        <title>test</title>
-    </head>
-    <body>
-        <style>
-            .logo{
-                height: 64px;
-                width: 64px;
-            }
-        </style>
-    </body>
-</html>
-
 ### Greetings traveler - you have reached Surister's profile, have a look.
 <br>
 
@@ -29,4 +15,4 @@
 ### Languages
 
 <hr>
-<img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo">
+<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo">
