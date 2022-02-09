@@ -1,4 +1,5 @@
 ### Greetings traveler - you have reached Surister's profile, have a look.
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=surister)
@@ -16,10 +17,12 @@
 
 [//]: # ([//]: # <img alt="Dart logo" style="margin-left: 10px" height="64px" width="64px" src="">        )
 <hr>
+<div>
 <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo">
 <img style="margin-left: 10px" height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript logo">
 <img alt="Dart logo" style="margin-left: 10px" height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
-<img alt="Html & CSS logo" style="margin-left: 10px" height="64px" width="128" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg">   
+<img alt="Html & CSS logo" style="margin-left: 10px" height="64px" width="128" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg">
+</div>
 
 ### My beloved frameworks
 <img alt="Django logo" style="margin-left: 10px" height="64" width="184" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"> 
