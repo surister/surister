@@ -8,7 +8,7 @@
 
 <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=surister&show_icons=true&count_private=true&include_all_commits=true&theme=darcula)
+![](https://github-readme-stats.vercel.app/api?username=surister&count_private=true&include_all_commits=true&theme=darcula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surister&layout=compact&lang_count=16&theme=darcula)
 
 # My tech stack:
