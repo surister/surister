@@ -14,7 +14,7 @@
 
 ### About me:
 
-I love open source and software engineering (I love designing libraries), I always focussed on web and data engineering technologies, right now I'm working as a Database Environment Engineer at @CrateDB, so lately I am working a lot on databases, integrations, drivers and whatnot.
+I love open source and software engineering (love writting libraries). I always focussed on web and data engineering technologies, right now I'm working as a `Database Environment Engineer` at @[crate](https://github.com/crate) (amazing open source SQL distributed database), so lately I am working a lot on databases, integrations, drivers and DX.
 
 
 ![](https://images3.memedroid.com/images/UPLOADED56/644a4e70c8639.jpeg)
