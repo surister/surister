@@ -14,7 +14,4 @@
 
 ### About me:
 
-I love Open source and Software engineering. I have always focussed on web and data engineering technologies, right now I'm working as a `Database Environment Engineer` at @[crate](https://github.com/crate) (open source SQL distributed database), so lately I've worked a lot on databases, integrations, drivers and DX.
-
-
-![](https://images3.memedroid.com/images/UPLOADED56/644a4e70c8639.jpeg)
+I'm a Software Engineer that's passionate about open-source, open-science, software internals and databases. I have a background in backend and data engineering, I'm currently working as a `Database Environment Engineer` at @[CrateDB](https://github.com/crate), an open-source SQL distributed database. I'm very much interested in all things Python/Rust. You can find my contributing to cool projects, ocasionally writting at https://surister.dev, attending/speaking at conferences like OpenSouthCode, Fosdem, J on the beach, PyconEs.. or at the gym (if my damn shoulder doesn't flare up!).
