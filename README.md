@@ -6,7 +6,8 @@
 ![](https://i.redd.it/ojf5uj3u4ehb1.png)
 
 <hr>
-[![](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
+![](https://raw.githubusercontent.com/surister/surister/refs/heads/main/images/userstats.svg)
 
 ### About me:
 I'm a Software Engineer that's passionate about open-source, open-science, software internals and databases. I have a background in backend and data engineering, I'm currently working as a `Database Environment Engineer` at @[CrateDB](https://github.com/crate), an open-source SQL distributed database. I'm very much interested in all things Python/Rust. You can find me contributing to cool projects, ocasionally writting at https://surister.dev, attending/speaking at conferences like OpenSouthCode, Fosdem, J on the beach, PyconEs.. or at the gym (if my damn shoulder doesn't flare up!).
